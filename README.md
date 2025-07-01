@@ -51,6 +51,8 @@ Would you like to perform operation (yes/no): yes
 ## 📜 License
 This project is open-source and free to use under the MIT License.
 
+---
+
 ## 📌 Future Plans / To-Do (optional)
 - Add factorial and logarithmic functions
 - Add memory/history storage
